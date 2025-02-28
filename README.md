@@ -10,7 +10,7 @@ This application is a Python-based GUI designed to facilitate image search and c
   - *Lanczos Resampling*: A high-quality resampling algorithm used for image resizing, also used here for image comparison tasks.
   
 - *Configurable Training Data*: Select from multiple training image configurations, allowing you to adjust the balance between training and testing datasets.
-  - Options: *60% training - 40% testing, **80% training - 20% testing, **90% training - 10% testing*.
+  - Options: 60% training - 40% testing, 80% training - 20% testing, 90% training - 10% testing.
 
 - *Norm Selection*: Choose from different distance norms to measure similarity:
   - *Manhattan Distance* (L1 norm)
